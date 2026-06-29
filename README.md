@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **scalable full-stack web applications** with a backend focus using **Django, Laravel, and Next.js**
-- 🤝 I’m looking to collaborate on **high-performance API-driven systems** and **enterprise/government projects**
-- 🌱 I’m currently learning **advanced DevOps, distributed systems, and scalable architectures**
+- 🔭 I'm currently working on **scalable full-stack web applications** with a backend focus using **Django, Laravel, and Next.js**
+- 🤝 I'm looking to collaborate on **high-performance API-driven systems** and **enterprise/government projects**
+- 🌱 I'm currently learning **advanced DevOps, distributed systems, and scalable architectures**
 - 💡 Ask me about **REST APIs, JWT Authentication, RBAC, Redis Caching, Backend Architecture, and System Design**
-- 🎯 I’m looking for help with **Microservices, Kubernetes, and Cloud-native Infrastructure**
+- 🎯 I'm looking for help with **Microservices, Kubernetes, and Cloud-native Infrastructure**
 - ⚡ Fun fact: **I've built systems serving 100K+ users with optimized performance and zero-data-loss migrations.**
 
 ---
@@ -27,12 +27,16 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="35" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/sonish-upadhyaya646/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sonish2319@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="35" width="35" />
+</a>
+
+<a href="https://sonishupadhyaya.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/3143/3143615.png" alt="website" height="35" width="35" />
 </a>
 </p>
 
