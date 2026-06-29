@@ -1,4 +1,3 @@
-```md
 [![MasterHead](https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif)](https://github.com/Sonish2319)
 
 <h1 align="center">Hi 👋, I'm Sonish</h1>
@@ -107,4 +106,3 @@
 <h3 align="center">
 ⭐ Building scalable software one commit at a time.
 </h3>
-```
