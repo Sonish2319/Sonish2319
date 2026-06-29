@@ -1,112 +1,236 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif)](https://github.com/Sonish2319)
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="100%" height="250px" alt="banner">
+</div>
 
-<h1 align="center">Hi 👋, I'm Sonish</h1>
-<h3 align="center">Backend Engineer • Full Stack Developer • System Architect</h3>
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translate3d(0, -30px, 0);
+    }
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(100, 200, 255, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(100, 200, 255, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(100, 200, 255, 0); }
+  }
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sonish2319&label=Profile%20Views&color=0e75b6&style=flat" alt="Sonish2319" />
-</p>
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translate3d(-40px, 0, 0);
+    }
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
+
+  @keyframes glow {
+    0%, 100% { text-shadow: 0 0 10px rgba(100, 200, 255, 0.5); }
+    50% { text-shadow: 0 0 20px rgba(100, 200, 255, 1); }
+  }
+
+  .wave {
+    animation: wave 2s infinite;
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
+
+  .title {
+    animation: fadeInDown 1s ease-out;
+  }
+
+  .subtitle {
+    animation: fadeInDown 1.2s ease-out;
+  }
+
+  .glow-text {
+    animation: glow 2s ease-in-out infinite;
+  }
+</style>
+
+<div align="center">
+  <h1 class="title">
+    <span class="wave">👋</span> Hi, I'm <span class="glow-text">Sonish</span>
+  </h1>
+  <h3 class="subtitle">Backend Engineer • Full Stack Developer • System Architect</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Sonish2319&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true" alt="profile views" />
+  </p>
+</div>
+
+---
+
+<!-- About Section with Animation -->
+<div align="center">
+  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
+</div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **scalable full-stack web applications** with a backend focus using **Django, Laravel, and Next.js**
-- 🤝 I'm looking to collaborate on **high-performance API-driven systems** and **enterprise/government projects**
-- 🌱 I'm currently learning **advanced DevOps, distributed systems, and scalable architectures**
-- 💡 Ask me about **REST APIs, JWT Authentication, RBAC, Redis Caching, Backend Architecture, and System Design**
-- 🎯 I'm looking for help with **Microservices, Kubernetes, and Cloud-native Infrastructure**
-- ⚡ Fun fact: **I've built systems serving 100K+ users with optimized performance and zero-data-loss migrations.**
+```yaml
+💼 Current Role: Backend Engineer & Full Stack Developer
+🔭 Currently Working On: Scalable full-stack web applications with Django, Laravel, and Next.js
+🤝 Open To: High-performance API-driven systems & enterprise/government projects
+🌱 Learning: Advanced DevOps, distributed systems, and cloud-native architectures
+💡 Expertise: REST APIs, JWT Auth, RBAC, Redis Caching, Backend Architecture, System Design
+🎯 Goals: Building robust, scalable microservices with Kubernetes
+⚡ Achievement: Built systems serving 100K+ users with zero-data-loss migrations
+```
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Sonish2319" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="35" />
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Sonish2319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonish-upadhyaya646/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonish2319@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://sonishupadhyaya.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Backend & Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Frontend & UI**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sonish2319&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180em"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonish2319&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sonish2319&theme=tokyonight&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sonish2319&theme=tokyonight&no-frame=true&margin-w=15)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonish2319&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Project Highlights
+
+<div align="center">
+
+| 🎯 Focus | 📝 Description |
+|---------|---------------|
+| **API Development** | Building RESTful APIs with authentication, rate limiting, and caching strategies |
+| **Database Optimization** | Designing scalable database architectures with indexing and query optimization |
+| **System Architecture** | Creating microservices with proper separation of concerns and SOLID principles |
+| **DevOps Pipeline** | Implementing CI/CD, containerization, and cloud deployment solutions |
+| **Performance Tuning** | Optimizing applications to handle 100K+ concurrent users efficiently |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Let's Build Something Amazing Together!
+
+<a href="https://www.linkedin.com/in/sonish-upadhyaya646/">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-0A66C2?style=for-the-badge&logo=linkedin" alt="Get In Touch">
 </a>
 
-<a href="https://www.linkedin.com/in/sonish-upadhyaya646/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
+<a href="https://github.com/Sonish2319">
+  <img src="https://img.shields.io/badge/View%20My%20Work-000?style=for-the-badge&logo=github" alt="View My Work">
 </a>
 
-<a href="mailto:sonish2319@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="35" width="35" />
+<a href="https://sonishupadhyaya.com">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=globe" alt="Portfolio">
 </a>
-
-<a href="https://sonishupadhyaya.com" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/3143/3143615.png" alt="website" height="35" width="35" />
-</a>
-</p>
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/></a>
-<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-<a href="https://www.sqlite.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
-<a href="https://nginx.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-<a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-<a href="https://gitlab.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonish2319&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonish2319&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sonish2319&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sonish2319&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonish2319&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Sonish2319&icon=5&color=6"/>
-</p>
 
 ---
 
 <h3 align="center">
-⭐ Building scalable software one commit at a time.
+  ⭐ Building scalable software, one commit at a time.
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" />
+</p>
+
+</div>
