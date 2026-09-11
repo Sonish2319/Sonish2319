@@ -122,6 +122,6 @@
 &nbsp;
 [![View My Work](https://img.shields.io/badge/View%20My%20Work-000?style=for-the-badge&logo=github)](https://github.com/Sonish2319)
 &nbsp;
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B6B?style=for-the-badge&logo=globe)](https://sonishupadhyaya.com)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B6B?style=for-the-badge&logo=globe)](https://sonishupadhyaya.com.np)
 
 </div>
