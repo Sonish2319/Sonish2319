@@ -93,15 +93,6 @@
 
 ---
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonish2319&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 💼 What I Do
 
 | 🎯 | 📝 |
